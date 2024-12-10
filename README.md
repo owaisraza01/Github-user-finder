@@ -1,7 +1,3 @@
-Here’s a structured GitHub repository description for your **GitHub User Finder** application:  
-
----
-
 # 🌟 GitHub User Finder  
 The **GitHub User Finder** is a sleek and interactive web application that allows users to search for GitHub profiles and explore detailed information, including repositories, followers, and more. Built using HTML, Bootstrap, and JavaScript, the app leverages the GitHub REST API to deliver real-time results in a stylish and responsive interface.  
 
@@ -43,8 +39,8 @@ Open the `index.html` file in your web browser.
 
 ---
 
-## 🖼️ Screenshots  
-[Add screenshots here to showcase the app's interface and functionality]  
+## 🖼️ Preview
+**https://stellar-kitsune-1848c6.netlify.app/**
 
 ---
 
